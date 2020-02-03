@@ -8,4 +8,6 @@ overlay/
 game.rpgproject
 index.html
 package.json
+js/libs
+js/main.js
 
